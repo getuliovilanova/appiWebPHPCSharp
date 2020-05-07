@@ -1,0 +1,22 @@
+{
+  "name": "apiwebphpcsharp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getuliovilanova/appiWebPHPCSharp.git"
+  },
+  "author": "Getulio Vilanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getuliovilanova/appiWebPHPCSharp/issues"
+  },
+  "homepage": "https://github.com/getuliovilanova/appiWebPHPCSharp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
